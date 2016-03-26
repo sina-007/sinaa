@@ -250,7 +250,7 @@ function create_config( )
     disabled_channels = {@eblisunity},
     moderation = {data = 'data/moderation.json'},
     about_text = [[با تشکر از سینا ابلیس
-https://github.com/BH-YAGHI/NOD32-BOT.git
+
 
 channel :@eblisunity
 sodu : @Dos_rahbar_eblisam_betars_soD
