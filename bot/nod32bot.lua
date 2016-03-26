@@ -245,14 +245,15 @@ function create_config( )
     "time",
     "version"
     },
-	    sudo_users = {158990680},--Sudo users
-    disabled_channels = {},
+	    sudo_users = {207971484
+},--Sudo users
+    disabled_channels = {@eblisunity},
     moderation = {data = 'data/moderation.json'},
-    about_text = [[
+    about_text = [[با تشکر از سینا ابلیس
 https://github.com/BH-YAGHI/NOD32-BOT.git
 
-channel : @Nod32team
-sodu : @behrooZyaghi
+channel :@eblisunity
+sodu : @Dos_rahbar_eblisam_betars_soD
 ]],
     help_text_realm = [[
 Realm Commands:
